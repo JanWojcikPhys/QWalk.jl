@@ -1,0 +1,13 @@
+name = "QWalk"
+uuid = "0ceb1d87-de6a-4f5b-8773-475eb53b212e"
+authors = ["Jan Wójcik"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
